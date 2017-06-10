@@ -1,0 +1,9 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: int
+X-Varnish: 873173849
+X-Cache: cp4014 int
+Set-Cookie: WMF-Last-Access=07-Jun-2017;Path=/;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=07-Jun-2017;Path=/;Domain=.wikimedia.org;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Server: Varnish
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/220px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg
+Date: Wed, 07 Jun 2017 15:19:21 GMT

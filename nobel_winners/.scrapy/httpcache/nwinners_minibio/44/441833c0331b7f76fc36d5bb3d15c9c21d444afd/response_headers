@@ -1,0 +1,9 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: int
+X-Varnish: 868497663
+X-Cache: cp4014 int
+Set-Cookie: WMF-Last-Access=07-Jun-2017;Path=/;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=07-Jun-2017;Path=/;Domain=.wikimedia.org;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Server: Varnish
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luc_Montagnier-press_conference_Dec_06th%2C_2008-6.jpg/220px-Luc_Montagnier-press_conference_Dec_06th%2C_2008-6.jpg
+Date: Wed, 07 Jun 2017 15:19:46 GMT

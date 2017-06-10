@@ -1,0 +1,9 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: int
+X-Varnish: 497852751
+X-Cache: cp4008 int
+Set-Cookie: WMF-Last-Access=07-Jun-2017;Path=/;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=07-Jun-2017;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Server: Varnish
+Location: https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+Date: Wed, 07 Jun 2017 14:46:00 GMT

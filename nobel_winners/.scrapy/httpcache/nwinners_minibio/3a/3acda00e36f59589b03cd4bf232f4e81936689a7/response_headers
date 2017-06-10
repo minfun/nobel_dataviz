@@ -1,0 +1,9 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: int
+X-Varnish: 873857049
+X-Cache: cp4014 int
+Set-Cookie: WMF-Last-Access=07-Jun-2017;Path=/;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=07-Jun-2017;Path=/;Domain=.wikimedia.org;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Server: Varnish
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg/220px-Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg
+Date: Wed, 07 Jun 2017 15:19:44 GMT

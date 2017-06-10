@@ -1,0 +1,9 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: int
+X-Varnish: 868628580
+X-Cache: cp4014 int
+Set-Cookie: WMF-Last-Access=07-Jun-2017;Path=/;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=07-Jun-2017;Path=/;Domain=.wikimedia.org;HttpOnly;secure;Expires=Sun, 09 Jul 2017 12:00:00 GMT
+Server: Varnish
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ArafatEconomicForum.jpg/225px-ArafatEconomicForum.jpg
+Date: Wed, 07 Jun 2017 15:19:23 GMT

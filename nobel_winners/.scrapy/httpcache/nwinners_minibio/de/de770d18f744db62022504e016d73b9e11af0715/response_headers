@@ -1,0 +1,21 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: pass
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+X-Analytics: WMF-Last-Access=07-Jun-2017;WMF-Last-Access-Global=07-Jun-2017;https=1
+X-Cache: cp1068 pass, cp2019 pass, cp4016 pass, cp4008 pass
+X-Content-Type-Options: nosniff
+X-Powered-By: HHVM/3.18.2
+Set-Cookie: GeoIP=HK:::22.25:114.17:v4; Path=/; secure; Domain=.wikipedia.org
+Age: 0
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Server: mw1171.eqiad.wmnet
+X-Varnish: 466063037, 611332047, 952742124, 504291949
+Location: https://en.wikipedia.org/wiki/Lu%C4%8Dka_Kajfe%C5%BE_Bogataj
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Date: Wed, 07 Jun 2017 15:31:52 GMT
+P3P: CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Type: text/html; charset=utf-8
+Backend-Timing: D=83779 t=1496849512049661
+Content-Encoding: gzip

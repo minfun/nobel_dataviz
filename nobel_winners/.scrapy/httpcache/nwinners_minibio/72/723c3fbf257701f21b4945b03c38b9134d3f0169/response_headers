@@ -1,0 +1,21 @@
+X-Client-Ip: 202.65.212.25
+X-Cache-Status: miss
+X-Varnish: 223165691, 610311258, 530126635, 527413355
+X-Analytics: ns=0;WMF-Last-Access=07-Jun-2017;WMF-Last-Access-Global=07-Jun-2017;https=1
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Powered-By: HHVM/3.18.2
+X-Cache: cp1055 miss, cp2019 miss, cp4017 miss, cp4008 miss
+Age: 0
+Content-Encoding: gzip
+Vary: Accept-Encoding,Cookie,Authorization
+Server: mw1215.eqiad.wmnet
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Link: </static/images/project-logos/enwiki.png>;rel=preload;as=image;media=not all and (min-resolution: 1.5dppx),</static/images/project-logos/enwiki-1.5x.png>;rel=preload;as=image;media=(min-resolution: 1.5dppx) and (max-resolution: 1.999999dppx),</static/images/project-logos/enwiki-2x.png>;rel=preload;as=image;media=(min-resolution: 2dppx)
+X-Ua-Compatible: IE=Edge
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Date: Wed, 07 Jun 2017 15:31:53 GMT
+P3P: CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Type: text/html; charset=UTF-8
+Backend-Timing: D=184474 t=1496849512803417
